@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DemosolutionVS\\DemoSolution\\BusinessDemo\\BusinessDemo.csproj": {}
+    "C:\\Users\\Administrator\\Source\\Repos\\DemoRepository\\BusinessDemo\\BusinessDemo.csproj": {}
   },
   "projects": {
-    "D:\\DemosolutionVS\\DemoSolution\\BusinessDemo\\BusinessDemo.csproj": {
+    "C:\\Users\\Administrator\\Source\\Repos\\DemoRepository\\BusinessDemo\\BusinessDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DemosolutionVS\\DemoSolution\\BusinessDemo\\BusinessDemo.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\DemoRepository\\BusinessDemo\\BusinessDemo.csproj",
         "projectName": "BusinessDemo",
-        "projectPath": "D:\\DemosolutionVS\\DemoSolution\\BusinessDemo\\BusinessDemo.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\DemoRepository\\BusinessDemo\\BusinessDemo.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\DemosolutionVS\\DemoSolution\\BusinessDemo\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\DemoRepository\\BusinessDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

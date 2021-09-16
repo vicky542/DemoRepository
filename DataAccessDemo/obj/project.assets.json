@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DemosolutionVS\\DemoSolution\\DataAccessDemo\\DataAccessDemo.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\DemoRepository\\DataAccessDemo\\DataAccessDemo.csproj",
       "projectName": "DataAccessDemo",
-      "projectPath": "D:\\DemosolutionVS\\DemoSolution\\DataAccessDemo\\DataAccessDemo.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\DemoRepository\\DataAccessDemo\\DataAccessDemo.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\DemosolutionVS\\DemoSolution\\DataAccessDemo\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\DemoRepository\\DataAccessDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

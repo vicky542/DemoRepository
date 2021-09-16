@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DemosolutionVS\\DemoSolution\\DemoWebAPI\\DemoWebAPI.csproj": {}
+    "C:\\Users\\Administrator\\Source\\Repos\\DemoRepository\\DemoWebAPI\\DemoWebAPI.csproj": {}
   },
   "projects": {
-    "D:\\DemosolutionVS\\DemoSolution\\DemoWebAPI\\DemoWebAPI.csproj": {
+    "C:\\Users\\Administrator\\Source\\Repos\\DemoRepository\\DemoWebAPI\\DemoWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DemosolutionVS\\DemoSolution\\DemoWebAPI\\DemoWebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\DemoRepository\\DemoWebAPI\\DemoWebAPI.csproj",
         "projectName": "DemoWebAPI",
-        "projectPath": "D:\\DemosolutionVS\\DemoSolution\\DemoWebAPI\\DemoWebAPI.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\DemoRepository\\DemoWebAPI\\DemoWebAPI.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\DemosolutionVS\\DemoSolution\\DemoWebAPI\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\DemoRepository\\DemoWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
